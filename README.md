@@ -21,9 +21,9 @@ A React application that provides real-time text statistics and allows users to 
 
 Prerequisites:
 
-⏺Node.js installed
+⏺ Node.js installed
 
-⏺A code editor like VS Code
+⏺ A code editor like VS Code
 
 Steps:
 
